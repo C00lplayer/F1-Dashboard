@@ -3,103 +3,17 @@
 An end-to-end **Power BI dashboard project** built around **Formula 1 race data**, delivering insights into **driver performance, constructor standings, qualifying trends, race outcomes, and season progression**.  
 This project combines **Python-based data extraction**, **FastF1 data access**, and **Power BI storytelling** to create a professional F1 analytics experience for fans, analysts, and stakeholders.
 
-<div align="center">
-  <style>
-    .f1-gallery {
-      max-width: 1180px;
-      margin: 18px auto 26px;
-      text-align: center;
-    }
-    .f1-slider {
-      position: relative;
-      width: 100%;
-      overflow: hidden;
-      border-radius: 14px;
-      background: #0b0b0d;
-      border: 1px solid #2a2a2d;
-      box-shadow: 0 10px 28px rgba(0,0,0,0.18);
-    }
-    .f1-slider input {
-      display: none;
-    }
-    .f1-slides {
-      display: flex;
-      width: 300%;
-      transition: transform 0.5s ease;
-    }
-    .f1-slide {
-      width: 100%;
-      flex-shrink: 0;
-    }
-    .f1-slide img {
-      display: block;
-      width: 100%;
-      height: auto;
-      border: 0;
-      border-radius: 12px;
-    }
-    .f1-nav {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 12px;
-      flex-wrap: wrap;
-    }
-    .f1-nav label {
-      display: inline-block;
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      background: #5a5a5d;
-      cursor: pointer;
-      transition: 0.2s ease;
-    }
-    .f1-nav label:hover {
-      background: #9ea2a9;
-    }
-    #slide-1:checked ~ .f1-slider .f1-slides {
-      transform: translateX(0%);
-    }
-    #slide-2:checked ~ .f1-slider .f1-slides {
-      transform: translateX(-33.333%);
-    }
-    #slide-3:checked ~ .f1-slider .f1-slides {
-      transform: translateX(-66.666%);
-    }
-    #slide-1:checked ~ .f1-slider .f1-nav label[for="slide-1"],
-    #slide-2:checked ~ .f1-slider .f1-nav label[for="slide-2"],
-    #slide-3:checked ~ .f1-slider .f1-nav label[for="slide-3"] {
-      background: #e31c23;
-      transform: scale(1.15);
-    }
-  </style>
-
-  <div class="f1-gallery">
-    <input type="radio" name="f1-slider" id="slide-1" checked>
-    <input type="radio" name="f1-slider" id="slide-2">
-    <input type="radio" name="f1-slider" id="slide-3">
-
-    <div class="f1-slider">
-      <div class="f1-slides">
-        <div class="f1-slide">
-          <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png" alt="F1 Dashboard Landing Page" />
-        </div>
-        <div class="f1-slide">
-          <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png" alt="F1 Season Overview Dashboard" />
-        </div>
-        <div class="f1-slide">
-          <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png" alt="F1 Past Race Details Dashboard" />
-        </div>
-      </div>
-
-      <div class="f1-nav">
-        <label for="slide-1" aria-label="Show landing page"></label>
-        <label for="slide-2" aria-label="Show season overview"></label>
-        <label for="slide-3" aria-label="Show past race details"></label>
-      </div>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png">
+    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png" width="32%">
+  </a>
+  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png">
+    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png" width="32%">
+  </a>
+  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png">
+    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png" width="32%">
+  </a>
+</p>
 
 ---
 
