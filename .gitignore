@@ -1,3 +1,7 @@
+#Custom Files
+fastf1_cache/ 
+Extra/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

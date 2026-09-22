@@ -1,0 +1,155 @@
+Round,RaceId,RaceName,Constructor,RoundPoints,CumulativePoints
+1,1,Australian Grand Prix,Alpine,1.0,1.0
+2,2,Chinese Grand Prix,Alpine,9.0,10.0
+3,3,Japanese Grand Prix,Alpine,6.0,16.0
+4,4,Miami Grand Prix,Alpine,4.0,20.0
+5,5,Canadian Grand Prix,Alpine,12.0,32.0
+6,6,Monaco Grand Prix,Alpine,15.0,47.0
+7,7,Barcelona Grand Prix,Alpine,10.0,57.0
+8,8,Austrian Grand Prix,Alpine,0.0,57.0
+9,9,British Grand Prix,Alpine,1.0,58.0
+10,10,Belgian Grand Prix,Alpine,1.0,59.0
+11,11,Hungarian Grand Prix,Alpine,0.0,59.0
+12,12,Dutch Grand Prix,Alpine,1.0,60.0
+13,13,Italian Grand Prix,Alpine,8.0,68.0
+14,14,Spanish Grand Prix,Alpine,6.0,74.0
+1,1,Australian Grand Prix,Aston Martin,0.0,0.0
+2,2,Chinese Grand Prix,Aston Martin,0.0,0.0
+3,3,Japanese Grand Prix,Aston Martin,0.0,0.0
+4,4,Miami Grand Prix,Aston Martin,0.0,0.0
+5,5,Canadian Grand Prix,Aston Martin,0.0,0.0
+6,6,Monaco Grand Prix,Aston Martin,0.0,0.0
+7,7,Barcelona Grand Prix,Aston Martin,0.0,0.0
+8,8,Austrian Grand Prix,Aston Martin,0.0,0.0
+9,9,British Grand Prix,Aston Martin,0.0,0.0
+10,10,Belgian Grand Prix,Aston Martin,0.0,0.0
+11,11,Hungarian Grand Prix,Aston Martin,0.0,0.0
+12,12,Dutch Grand Prix,Aston Martin,2.0,2.0
+13,13,Italian Grand Prix,Aston Martin,0.0,2.0
+14,14,Spanish Grand Prix,Aston Martin,0.0,2.0
+1,1,Australian Grand Prix,Audi,2.0,2.0
+2,2,Chinese Grand Prix,Audi,0.0,2.0
+3,3,Japanese Grand Prix,Audi,0.0,2.0
+4,4,Miami Grand Prix,Audi,0.0,2.0
+5,5,Canadian Grand Prix,Audi,0.0,2.0
+6,6,Monaco Grand Prix,Audi,2.0,4.0
+7,7,Barcelona Grand Prix,Audi,0.0,4.0
+8,8,Austrian Grand Prix,Audi,0.0,4.0
+9,9,British Grand Prix,Audi,4.0,8.0
+10,10,Belgian Grand Prix,Audi,4.0,12.0
+11,11,Hungarian Grand Prix,Audi,2.0,14.0
+12,12,Dutch Grand Prix,Audi,4.0,18.0
+13,13,Italian Grand Prix,Audi,0.0,18.0
+14,14,Spanish Grand Prix,Audi,1.0,19.0
+1,1,Australian Grand Prix,Cadillac,0.0,0.0
+2,2,Chinese Grand Prix,Cadillac,0.0,0.0
+3,3,Japanese Grand Prix,Cadillac,0.0,0.0
+4,4,Miami Grand Prix,Cadillac,0.0,0.0
+5,5,Canadian Grand Prix,Cadillac,0.0,0.0
+6,6,Monaco Grand Prix,Cadillac,0.0,0.0
+7,7,Barcelona Grand Prix,Cadillac,0.0,0.0
+8,8,Austrian Grand Prix,Cadillac,0.0,0.0
+9,9,British Grand Prix,Cadillac,0.0,0.0
+10,10,Belgian Grand Prix,Cadillac,0.0,0.0
+11,11,Hungarian Grand Prix,Cadillac,0.0,0.0
+12,12,Dutch Grand Prix,Cadillac,0.0,0.0
+13,13,Italian Grand Prix,Cadillac,0.0,0.0
+14,14,Spanish Grand Prix,Cadillac,0.0,0.0
+1,1,Australian Grand Prix,Ferrari,27.0,27.0
+2,2,Chinese Grand Prix,Ferrari,27.0,54.0
+3,3,Japanese Grand Prix,Ferrari,23.0,77.0
+4,4,Miami Grand Prix,Ferrari,14.0,91.0
+5,5,Canadian Grand Prix,Ferrari,30.0,121.0
+6,6,Monaco Grand Prix,Ferrari,18.0,139.0
+7,7,Barcelona Grand Prix,Ferrari,25.0,164.0
+8,8,Austrian Grand Prix,Ferrari,14.0,178.0
+9,9,British Grand Prix,Ferrari,40.0,218.0
+10,10,Belgian Grand Prix,Ferrari,30.0,248.0
+11,11,Hungarian Grand Prix,Ferrari,22.0,270.0
+12,12,Dutch Grand Prix,Ferrari,22.0,292.0
+13,13,Italian Grand Prix,Ferrari,8.0,300.0
+14,14,Spanish Grand Prix,Ferrari,12.0,312.0
+1,1,Australian Grand Prix,Haas F1 Team,6.0,6.0
+2,2,Chinese Grand Prix,Haas F1 Team,10.0,16.0
+3,3,Japanese Grand Prix,Haas F1 Team,1.0,17.0
+4,4,Miami Grand Prix,Haas F1 Team,0.0,17.0
+5,5,Canadian Grand Prix,Haas F1 Team,1.0,18.0
+6,6,Monaco Grand Prix,Haas F1 Team,1.0,19.0
+7,7,Barcelona Grand Prix,Haas F1 Team,0.0,19.0
+8,8,Austrian Grand Prix,Haas F1 Team,0.0,19.0
+9,9,British Grand Prix,Haas F1 Team,0.0,19.0
+10,10,Belgian Grand Prix,Haas F1 Team,0.0,19.0
+11,11,Hungarian Grand Prix,Haas F1 Team,0.0,19.0
+12,12,Dutch Grand Prix,Haas F1 Team,0.0,19.0
+13,13,Italian Grand Prix,Haas F1 Team,0.0,19.0
+14,14,Spanish Grand Prix,Haas F1 Team,0.0,19.0
+1,1,Australian Grand Prix,McLaren,10.0,10.0
+2,2,Chinese Grand Prix,McLaren,0.0,10.0
+3,3,Japanese Grand Prix,McLaren,28.0,38.0
+4,4,Miami Grand Prix,McLaren,33.0,71.0
+5,5,Canadian Grand Prix,McLaren,0.0,71.0
+6,6,Monaco Grand Prix,McLaren,10.0,81.0
+7,7,Barcelona Grand Prix,McLaren,25.0,106.0
+8,8,Austrian Grand Prix,McLaren,18.0,124.0
+9,9,British Grand Prix,McLaren,12.0,136.0
+10,10,Belgian Grand Prix,McLaren,16.0,152.0
+11,11,Hungarian Grand Prix,McLaren,25.0,177.0
+12,12,Dutch Grand Prix,McLaren,33.0,210.0
+13,13,Italian Grand Prix,McLaren,22.0,232.0
+14,14,Spanish Grand Prix,McLaren,19.0,251.0
+1,1,Australian Grand Prix,Mercedes,43.0,43.0
+2,2,Chinese Grand Prix,Mercedes,43.0,86.0
+3,3,Japanese Grand Prix,Mercedes,37.0,123.0
+4,4,Miami Grand Prix,Mercedes,37.0,160.0
+5,5,Canadian Grand Prix,Mercedes,25.0,185.0
+6,6,Monaco Grand Prix,Mercedes,25.0,210.0
+7,7,Barcelona Grand Prix,Mercedes,18.0,228.0
+8,8,Austrian Grand Prix,Mercedes,40.0,268.0
+9,9,British Grand Prix,Mercedes,20.0,288.0
+10,10,Belgian Grand Prix,Mercedes,25.0,313.0
+11,11,Hungarian Grand Prix,Mercedes,21.0,334.0
+12,12,Dutch Grand Prix,Mercedes,33.0,367.0
+13,13,Italian Grand Prix,Mercedes,43.0,410.0
+14,14,Spanish Grand Prix,Mercedes,35.0,445.0
+1,1,Australian Grand Prix,Racing Bulls,4.0,4.0
+2,2,Chinese Grand Prix,Racing Bulls,6.0,10.0
+3,3,Japanese Grand Prix,Racing Bulls,2.0,12.0
+4,4,Miami Grand Prix,Racing Bulls,0.0,12.0
+5,5,Canadian Grand Prix,Racing Bulls,6.0,18.0
+6,6,Monaco Grand Prix,Racing Bulls,14.0,32.0
+7,7,Barcelona Grand Prix,Racing Bulls,3.0,35.0
+8,8,Austrian Grand Prix,Racing Bulls,3.0,38.0
+9,9,British Grand Prix,Racing Bulls,14.0,52.0
+10,10,Belgian Grand Prix,Racing Bulls,2.0,54.0
+11,11,Hungarian Grand Prix,Racing Bulls,5.0,59.0
+12,12,Dutch Grand Prix,Racing Bulls,0.0,59.0
+13,13,Italian Grand Prix,Racing Bulls,5.0,64.0
+14,14,Spanish Grand Prix,Racing Bulls,2.0,66.0
+1,1,Australian Grand Prix,Red Bull Racing,8.0,8.0
+2,2,Chinese Grand Prix,Red Bull Racing,4.0,12.0
+3,3,Japanese Grand Prix,Red Bull Racing,4.0,16.0
+4,4,Miami Grand Prix,Red Bull Racing,10.0,26.0
+5,5,Canadian Grand Prix,Red Bull Racing,25.0,51.0
+6,6,Monaco Grand Prix,Red Bull Racing,12.0,63.0
+7,7,Barcelona Grand Prix,Red Bull Racing,20.0,83.0
+8,8,Austrian Grand Prix,Red Bull Racing,26.0,109.0
+9,9,British Grand Prix,Red Bull Racing,10.0,119.0
+10,10,Belgian Grand Prix,Red Bull Racing,23.0,142.0
+11,11,Hungarian Grand Prix,Red Bull Racing,26.0,168.0
+12,12,Dutch Grand Prix,Red Bull Racing,6.0,174.0
+13,13,Italian Grand Prix,Red Bull Racing,15.0,189.0
+14,14,Spanish Grand Prix,Red Bull Racing,26.0,215.0
+1,1,Australian Grand Prix,Williams,0.0,0.0
+2,2,Chinese Grand Prix,Williams,2.0,2.0
+3,3,Japanese Grand Prix,Williams,0.0,2.0
+4,4,Miami Grand Prix,Williams,3.0,5.0
+5,5,Canadian Grand Prix,Williams,2.0,7.0
+6,6,Monaco Grand Prix,Williams,4.0,11.0
+7,7,Barcelona Grand Prix,Williams,0.0,11.0
+8,8,Austrian Grand Prix,Williams,0.0,11.0
+9,9,British Grand Prix,Williams,0.0,11.0
+10,10,Belgian Grand Prix,Williams,0.0,11.0
+11,11,Hungarian Grand Prix,Williams,0.0,11.0
+12,12,Dutch Grand Prix,Williams,0.0,11.0
+13,13,Italian Grand Prix,Williams,0.0,11.0
+14,14,Spanish Grand Prix,Williams,0.0,11.0

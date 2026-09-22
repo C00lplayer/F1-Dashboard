@@ -1,0 +1,155 @@
+Season,Round,RaceId,RaceName,Position,Constructor,Points,RoundPoints
+2026,1,1,Australian Grand Prix,1,Mercedes,43.0,43.0
+2026,1,1,Australian Grand Prix,2,Ferrari,27.0,27.0
+2026,1,1,Australian Grand Prix,3,McLaren,10.0,10.0
+2026,1,1,Australian Grand Prix,4,Red Bull Racing,8.0,8.0
+2026,1,1,Australian Grand Prix,5,Haas F1 Team,6.0,6.0
+2026,1,1,Australian Grand Prix,6,Racing Bulls,4.0,4.0
+2026,1,1,Australian Grand Prix,7,Audi,2.0,2.0
+2026,1,1,Australian Grand Prix,8,Alpine,1.0,1.0
+2026,1,1,Australian Grand Prix,9,Aston Martin,0.0,0.0
+2026,1,1,Australian Grand Prix,9,Cadillac,0.0,0.0
+2026,1,1,Australian Grand Prix,9,Williams,0.0,0.0
+2026,2,2,Chinese Grand Prix,1,Mercedes,86.0,43.0
+2026,2,2,Chinese Grand Prix,2,Ferrari,54.0,27.0
+2026,2,2,Chinese Grand Prix,3,Haas F1 Team,16.0,10.0
+2026,2,2,Chinese Grand Prix,4,Red Bull Racing,12.0,4.0
+2026,2,2,Chinese Grand Prix,5,Alpine,10.0,9.0
+2026,2,2,Chinese Grand Prix,5,McLaren,10.0,0.0
+2026,2,2,Chinese Grand Prix,5,Racing Bulls,10.0,6.0
+2026,2,2,Chinese Grand Prix,8,Audi,2.0,0.0
+2026,2,2,Chinese Grand Prix,8,Williams,2.0,2.0
+2026,2,2,Chinese Grand Prix,10,Aston Martin,0.0,0.0
+2026,2,2,Chinese Grand Prix,10,Cadillac,0.0,0.0
+2026,3,3,Japanese Grand Prix,1,Mercedes,123.0,37.0
+2026,3,3,Japanese Grand Prix,2,Ferrari,77.0,23.0
+2026,3,3,Japanese Grand Prix,3,McLaren,38.0,28.0
+2026,3,3,Japanese Grand Prix,4,Haas F1 Team,17.0,1.0
+2026,3,3,Japanese Grand Prix,5,Alpine,16.0,6.0
+2026,3,3,Japanese Grand Prix,5,Red Bull Racing,16.0,4.0
+2026,3,3,Japanese Grand Prix,7,Racing Bulls,12.0,2.0
+2026,3,3,Japanese Grand Prix,8,Audi,2.0,0.0
+2026,3,3,Japanese Grand Prix,8,Williams,2.0,0.0
+2026,3,3,Japanese Grand Prix,10,Aston Martin,0.0,0.0
+2026,3,3,Japanese Grand Prix,10,Cadillac,0.0,0.0
+2026,4,4,Miami Grand Prix,1,Mercedes,160.0,37.0
+2026,4,4,Miami Grand Prix,2,Ferrari,91.0,14.0
+2026,4,4,Miami Grand Prix,3,McLaren,71.0,33.0
+2026,4,4,Miami Grand Prix,4,Red Bull Racing,26.0,10.0
+2026,4,4,Miami Grand Prix,5,Alpine,20.0,4.0
+2026,4,4,Miami Grand Prix,6,Haas F1 Team,17.0,0.0
+2026,4,4,Miami Grand Prix,7,Racing Bulls,12.0,0.0
+2026,4,4,Miami Grand Prix,8,Williams,5.0,3.0
+2026,4,4,Miami Grand Prix,9,Audi,2.0,0.0
+2026,4,4,Miami Grand Prix,10,Aston Martin,0.0,0.0
+2026,4,4,Miami Grand Prix,10,Cadillac,0.0,0.0
+2026,5,5,Canadian Grand Prix,1,Mercedes,185.0,25.0
+2026,5,5,Canadian Grand Prix,2,Ferrari,121.0,30.0
+2026,5,5,Canadian Grand Prix,3,McLaren,71.0,0.0
+2026,5,5,Canadian Grand Prix,4,Red Bull Racing,51.0,25.0
+2026,5,5,Canadian Grand Prix,5,Alpine,32.0,12.0
+2026,5,5,Canadian Grand Prix,6,Haas F1 Team,18.0,1.0
+2026,5,5,Canadian Grand Prix,6,Racing Bulls,18.0,6.0
+2026,5,5,Canadian Grand Prix,8,Williams,7.0,2.0
+2026,5,5,Canadian Grand Prix,9,Audi,2.0,0.0
+2026,5,5,Canadian Grand Prix,10,Aston Martin,0.0,0.0
+2026,5,5,Canadian Grand Prix,10,Cadillac,0.0,0.0
+2026,6,6,Monaco Grand Prix,1,Mercedes,210.0,25.0
+2026,6,6,Monaco Grand Prix,2,Ferrari,139.0,18.0
+2026,6,6,Monaco Grand Prix,3,McLaren,81.0,10.0
+2026,6,6,Monaco Grand Prix,4,Red Bull Racing,63.0,12.0
+2026,6,6,Monaco Grand Prix,5,Alpine,47.0,15.0
+2026,6,6,Monaco Grand Prix,6,Racing Bulls,32.0,14.0
+2026,6,6,Monaco Grand Prix,7,Haas F1 Team,19.0,1.0
+2026,6,6,Monaco Grand Prix,8,Williams,11.0,4.0
+2026,6,6,Monaco Grand Prix,9,Audi,4.0,2.0
+2026,6,6,Monaco Grand Prix,10,Aston Martin,0.0,0.0
+2026,6,6,Monaco Grand Prix,10,Cadillac,0.0,0.0
+2026,7,7,Barcelona Grand Prix,1,Mercedes,228.0,18.0
+2026,7,7,Barcelona Grand Prix,2,Ferrari,164.0,25.0
+2026,7,7,Barcelona Grand Prix,3,McLaren,106.0,25.0
+2026,7,7,Barcelona Grand Prix,4,Red Bull Racing,83.0,20.0
+2026,7,7,Barcelona Grand Prix,5,Alpine,57.0,10.0
+2026,7,7,Barcelona Grand Prix,6,Racing Bulls,35.0,3.0
+2026,7,7,Barcelona Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,7,7,Barcelona Grand Prix,8,Williams,11.0,0.0
+2026,7,7,Barcelona Grand Prix,9,Audi,4.0,0.0
+2026,7,7,Barcelona Grand Prix,10,Aston Martin,0.0,0.0
+2026,7,7,Barcelona Grand Prix,10,Cadillac,0.0,0.0
+2026,8,8,Austrian Grand Prix,1,Mercedes,268.0,40.0
+2026,8,8,Austrian Grand Prix,2,Ferrari,178.0,14.0
+2026,8,8,Austrian Grand Prix,3,McLaren,124.0,18.0
+2026,8,8,Austrian Grand Prix,4,Red Bull Racing,109.0,26.0
+2026,8,8,Austrian Grand Prix,5,Alpine,57.0,0.0
+2026,8,8,Austrian Grand Prix,6,Racing Bulls,38.0,3.0
+2026,8,8,Austrian Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,8,8,Austrian Grand Prix,8,Williams,11.0,0.0
+2026,8,8,Austrian Grand Prix,9,Audi,4.0,0.0
+2026,8,8,Austrian Grand Prix,10,Aston Martin,0.0,0.0
+2026,8,8,Austrian Grand Prix,10,Cadillac,0.0,0.0
+2026,9,9,British Grand Prix,1,Mercedes,288.0,20.0
+2026,9,9,British Grand Prix,2,Ferrari,218.0,40.0
+2026,9,9,British Grand Prix,3,McLaren,136.0,12.0
+2026,9,9,British Grand Prix,4,Red Bull Racing,119.0,10.0
+2026,9,9,British Grand Prix,5,Alpine,58.0,1.0
+2026,9,9,British Grand Prix,6,Racing Bulls,52.0,14.0
+2026,9,9,British Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,9,9,British Grand Prix,8,Williams,11.0,0.0
+2026,9,9,British Grand Prix,9,Audi,8.0,4.0
+2026,9,9,British Grand Prix,10,Aston Martin,0.0,0.0
+2026,9,9,British Grand Prix,10,Cadillac,0.0,0.0
+2026,10,10,Belgian Grand Prix,1,Mercedes,313.0,25.0
+2026,10,10,Belgian Grand Prix,2,Ferrari,248.0,30.0
+2026,10,10,Belgian Grand Prix,3,McLaren,152.0,16.0
+2026,10,10,Belgian Grand Prix,4,Red Bull Racing,142.0,23.0
+2026,10,10,Belgian Grand Prix,5,Alpine,59.0,1.0
+2026,10,10,Belgian Grand Prix,6,Racing Bulls,54.0,2.0
+2026,10,10,Belgian Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,10,10,Belgian Grand Prix,8,Audi,12.0,4.0
+2026,10,10,Belgian Grand Prix,9,Williams,11.0,0.0
+2026,10,10,Belgian Grand Prix,10,Aston Martin,0.0,0.0
+2026,10,10,Belgian Grand Prix,10,Cadillac,0.0,0.0
+2026,11,11,Hungarian Grand Prix,1,Mercedes,334.0,21.0
+2026,11,11,Hungarian Grand Prix,2,Ferrari,270.0,22.0
+2026,11,11,Hungarian Grand Prix,3,McLaren,177.0,25.0
+2026,11,11,Hungarian Grand Prix,4,Red Bull Racing,168.0,26.0
+2026,11,11,Hungarian Grand Prix,5,Alpine,59.0,0.0
+2026,11,11,Hungarian Grand Prix,5,Racing Bulls,59.0,5.0
+2026,11,11,Hungarian Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,11,11,Hungarian Grand Prix,8,Audi,14.0,2.0
+2026,11,11,Hungarian Grand Prix,9,Williams,11.0,0.0
+2026,11,11,Hungarian Grand Prix,10,Aston Martin,0.0,0.0
+2026,11,11,Hungarian Grand Prix,10,Cadillac,0.0,0.0
+2026,12,12,Dutch Grand Prix,1,Mercedes,367.0,33.0
+2026,12,12,Dutch Grand Prix,2,Ferrari,292.0,22.0
+2026,12,12,Dutch Grand Prix,3,McLaren,210.0,33.0
+2026,12,12,Dutch Grand Prix,4,Red Bull Racing,174.0,6.0
+2026,12,12,Dutch Grand Prix,5,Alpine,60.0,1.0
+2026,12,12,Dutch Grand Prix,6,Racing Bulls,59.0,0.0
+2026,12,12,Dutch Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,12,12,Dutch Grand Prix,8,Audi,18.0,4.0
+2026,12,12,Dutch Grand Prix,9,Williams,11.0,0.0
+2026,12,12,Dutch Grand Prix,10,Aston Martin,2.0,2.0
+2026,12,12,Dutch Grand Prix,11,Cadillac,0.0,0.0
+2026,13,13,Italian Grand Prix,1,Mercedes,410.0,43.0
+2026,13,13,Italian Grand Prix,2,Ferrari,300.0,8.0
+2026,13,13,Italian Grand Prix,3,McLaren,232.0,22.0
+2026,13,13,Italian Grand Prix,4,Red Bull Racing,189.0,15.0
+2026,13,13,Italian Grand Prix,5,Alpine,68.0,8.0
+2026,13,13,Italian Grand Prix,6,Racing Bulls,64.0,5.0
+2026,13,13,Italian Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,13,13,Italian Grand Prix,8,Audi,18.0,0.0
+2026,13,13,Italian Grand Prix,9,Williams,11.0,0.0
+2026,13,13,Italian Grand Prix,10,Aston Martin,2.0,0.0
+2026,13,13,Italian Grand Prix,11,Cadillac,0.0,0.0
+2026,14,14,Spanish Grand Prix,1,Mercedes,445.0,35.0
+2026,14,14,Spanish Grand Prix,2,Ferrari,312.0,12.0
+2026,14,14,Spanish Grand Prix,3,McLaren,251.0,19.0
+2026,14,14,Spanish Grand Prix,4,Red Bull Racing,215.0,26.0
+2026,14,14,Spanish Grand Prix,5,Alpine,74.0,6.0
+2026,14,14,Spanish Grand Prix,6,Racing Bulls,66.0,2.0
+2026,14,14,Spanish Grand Prix,7,Audi,19.0,1.0
+2026,14,14,Spanish Grand Prix,7,Haas F1 Team,19.0,0.0
+2026,14,14,Spanish Grand Prix,9,Williams,11.0,0.0
+2026,14,14,Spanish Grand Prix,10,Aston Martin,2.0,0.0
+2026,14,14,Spanish Grand Prix,11,Cadillac,0.0,0.0

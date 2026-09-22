@@ -1,0 +1,24 @@
+RaceId,Round,RaceName,Country,Location,EventFormat,EventDate,RaceStartUtc,OfficialEventName,Completed
+1,1,Australian Grand Prix,Australia,Melbourne,conventional,2026-03-08,2026-03-08 04:00,FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026,True
+2,2,Chinese Grand Prix,China,Shanghai,sprint_qualifying,2026-03-15,2026-03-15 07:00,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026,True
+3,3,Japanese Grand Prix,Japan,Suzuka,conventional,2026-03-29,2026-03-29 05:00,FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026,True
+4,4,Miami Grand Prix,United States,Miami Gardens,sprint_qualifying,2026-05-03,2026-05-03 17:00,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026,True
+5,5,Canadian Grand Prix,Canada,Montréal,sprint_qualifying,2026-05-24,2026-05-24 20:00,FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026,True
+6,6,Monaco Grand Prix,Monaco,Monte Carlo,conventional,2026-06-07,2026-06-07 13:00,FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026,True
+7,7,Barcelona Grand Prix,Spain,Barcelona,conventional,2026-06-14,2026-06-14 13:00,FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026,True
+8,8,Austrian Grand Prix,Austria,Spielberg,conventional,2026-06-28,2026-06-28 13:00,FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026,True
+9,9,British Grand Prix,United Kingdom,Silverstone,sprint_qualifying,2026-07-05,2026-07-05 14:00,FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026,True
+10,10,Belgian Grand Prix,Belgium,Spa-Francorchamps,conventional,2026-07-19,2026-07-19 13:00,FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026,True
+11,11,Hungarian Grand Prix,Hungary,Budapest,conventional,2026-07-26,2026-07-26 13:00,FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026,True
+12,12,Dutch Grand Prix,Netherlands,Zandvoort,sprint_qualifying,2026-08-23,2026-08-23 13:00,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026,True
+13,13,Italian Grand Prix,Italy,Monza,conventional,2026-09-06,2026-09-06 13:00,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,True
+14,14,Spanish Grand Prix,Spain,Madrid,conventional,2026-09-13,2026-09-13 13:00,FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026,True
+15,15,Azerbaijan Grand Prix,Azerbaijan,Baku,conventional,2026-09-26,2026-09-26 11:00,FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026,False
+16,16,Bahrain Grand Prix,Bahrain,Kuala Lumpur,conventional,2026-10-04,2026-10-04 07:00,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026,False
+17,17,Singapore Grand Prix,Singapore,Marina Bay,sprint_qualifying,2026-10-11,2026-10-11 12:00,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026,False
+18,18,United States Grand Prix,United States,Austin,conventional,2026-10-25,2026-10-25 20:00,FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026,False
+19,19,Mexico City Grand Prix,Mexico,Mexico City,conventional,2026-11-01,2026-11-01 20:00,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026,False
+20,20,São Paulo Grand Prix,Brazil,São Paulo,conventional,2026-11-08,2026-11-08 17:00,FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026,False
+21,21,Las Vegas Grand Prix,United States,Las Vegas,conventional,2026-11-22,2026-11-22 04:00,FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026,False
+22,22,Qatar Grand Prix,Qatar,Lusail,conventional,2026-11-29,2026-11-29 16:00,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026,False
+23,23,Abu Dhabi Grand Prix,United Arab Emirates,Yas Marina,conventional,2026-12-06,2026-12-06 13:00,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026,False

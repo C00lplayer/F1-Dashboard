@@ -1,0 +1,15 @@
+RaceId,Round,RaceName,Driver,Abbreviation,Constructor,FastestLapTime,FastestLapSeconds,FastestLapNumber
+1,1,Australian Grand Prix,Max Verstappen,VER,Red Bull Racing,1:22.091,82.091,43.0
+2,2,Chinese Grand Prix,Kimi Antonelli,ANT,Mercedes,1:35.275,95.275,52.0
+3,3,Japanese Grand Prix,Kimi Antonelli,ANT,Mercedes,1:32.432,92.432,49.0
+4,4,Miami Grand Prix,Lando Norris,NOR,McLaren,1:31.869,91.869,35.0
+5,5,Canadian Grand Prix,Kimi Antonelli,ANT,Mercedes,1:14.210,74.21,68.0
+6,6,Monaco Grand Prix,Kimi Antonelli,ANT,Mercedes,1:13.481,73.481,76.0
+7,7,Barcelona Grand Prix,Lewis Hamilton,HAM,Ferrari,1:20.122,80.122,44.0
+8,8,Austrian Grand Prix,Kimi Antonelli,ANT,Mercedes,1:10.374,70.374,59.0
+9,9,British Grand Prix,Kimi Antonelli,ANT,Mercedes,1:31.777,91.777,37.0
+10,10,Belgian Grand Prix,Lando Norris,NOR,McLaren,1:48.890,108.89,44.0
+11,11,Hungarian Grand Prix,Charles Leclerc,LEC,Ferrari,1:22.000,82.0,58.0
+12,12,Dutch Grand Prix,Charles Leclerc,LEC,Ferrari,1:14.230,74.23,60.0
+13,13,Italian Grand Prix,Kimi Antonelli,ANT,Mercedes,1:23.504,83.504,53.0
+14,14,Spanish Grand Prix,George Russell,RUS,Mercedes,1:35.587,95.587,49.0

@@ -1,0 +1,312 @@
+Season,Round,RaceId,RaceName,Position,Driver,Constructor,Points,RoundPoints,Wins,Podiums
+2026,1,1,Australian Grand Prix,1,George Russell,Mercedes,25.0,25.0,1,1
+2026,1,1,Australian Grand Prix,2,Kimi Antonelli,Mercedes,18.0,18.0,0,1
+2026,1,1,Australian Grand Prix,3,Charles Leclerc,Ferrari,15.0,15.0,0,1
+2026,1,1,Australian Grand Prix,4,Lewis Hamilton,Ferrari,12.0,12.0,0,0
+2026,1,1,Australian Grand Prix,5,Lando Norris,McLaren,10.0,10.0,0,0
+2026,1,1,Australian Grand Prix,6,Max Verstappen,Red Bull Racing,8.0,8.0,0,0
+2026,1,1,Australian Grand Prix,7,Oliver Bearman,Haas F1 Team,6.0,6.0,0,0
+2026,1,1,Australian Grand Prix,8,Arvid Lindblad,Racing Bulls,4.0,4.0,0,0
+2026,1,1,Australian Grand Prix,9,Gabriel Bortoleto,Audi,2.0,2.0,0,0
+2026,1,1,Australian Grand Prix,10,Pierre Gasly,Alpine,1.0,1.0,0,0
+2026,1,1,Australian Grand Prix,11,Alexander Albon,Williams,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Carlos Sainz,Williams,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Esteban Ocon,Haas F1 Team,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Franco Colapinto,Alpine,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Isack Hadjar,Red Bull Racing,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Liam Lawson,Racing Bulls,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Nico Hulkenberg,Audi,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Oscar Piastri,McLaren,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,1,1,Australian Grand Prix,11,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,1,George Russell,Mercedes,43.0,18.0,1,2
+2026,2,2,Chinese Grand Prix,1,Kimi Antonelli,Mercedes,43.0,25.0,1,2
+2026,2,2,Chinese Grand Prix,3,Charles Leclerc,Ferrari,27.0,12.0,0,1
+2026,2,2,Chinese Grand Prix,3,Lewis Hamilton,Ferrari,27.0,15.0,0,1
+2026,2,2,Chinese Grand Prix,5,Oliver Bearman,Haas F1 Team,16.0,10.0,0,0
+2026,2,2,Chinese Grand Prix,6,Lando Norris,McLaren,10.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,7,Pierre Gasly,Alpine,9.0,8.0,0,0
+2026,2,2,Chinese Grand Prix,8,Max Verstappen,Red Bull Racing,8.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,9,Liam Lawson,Racing Bulls,6.0,6.0,0,0
+2026,2,2,Chinese Grand Prix,10,Arvid Lindblad,Racing Bulls,4.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,10,Isack Hadjar,Red Bull Racing,4.0,4.0,0,0
+2026,2,2,Chinese Grand Prix,12,Carlos Sainz,Williams,2.0,2.0,0,0
+2026,2,2,Chinese Grand Prix,12,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,14,Franco Colapinto,Alpine,1.0,1.0,0,0
+2026,2,2,Chinese Grand Prix,15,Alexander Albon,Williams,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Esteban Ocon,Haas F1 Team,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Nico Hulkenberg,Audi,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Oscar Piastri,McLaren,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,2,2,Chinese Grand Prix,15,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,1,Kimi Antonelli,Mercedes,68.0,25.0,2,3
+2026,3,3,Japanese Grand Prix,2,George Russell,Mercedes,55.0,12.0,1,2
+2026,3,3,Japanese Grand Prix,3,Charles Leclerc,Ferrari,42.0,15.0,0,2
+2026,3,3,Japanese Grand Prix,4,Lewis Hamilton,Ferrari,35.0,8.0,0,1
+2026,3,3,Japanese Grand Prix,5,Lando Norris,McLaren,20.0,10.0,0,0
+2026,3,3,Japanese Grand Prix,6,Oscar Piastri,McLaren,18.0,18.0,0,1
+2026,3,3,Japanese Grand Prix,7,Oliver Bearman,Haas F1 Team,16.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,8,Pierre Gasly,Alpine,15.0,6.0,0,0
+2026,3,3,Japanese Grand Prix,9,Max Verstappen,Red Bull Racing,12.0,4.0,0,0
+2026,3,3,Japanese Grand Prix,10,Liam Lawson,Racing Bulls,8.0,2.0,0,0
+2026,3,3,Japanese Grand Prix,11,Arvid Lindblad,Racing Bulls,4.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,11,Isack Hadjar,Red Bull Racing,4.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,13,Carlos Sainz,Williams,2.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,13,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,15,Esteban Ocon,Haas F1 Team,1.0,1.0,0,0
+2026,3,3,Japanese Grand Prix,15,Franco Colapinto,Alpine,1.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Alexander Albon,Williams,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Nico Hulkenberg,Audi,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,3,3,Japanese Grand Prix,17,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,4,4,Miami Grand Prix,1,Kimi Antonelli,Mercedes,93.0,25.0,3,4
+2026,4,4,Miami Grand Prix,2,George Russell,Mercedes,67.0,12.0,1,2
+2026,4,4,Miami Grand Prix,3,Charles Leclerc,Ferrari,50.0,8.0,0,2
+2026,4,4,Miami Grand Prix,4,Lewis Hamilton,Ferrari,41.0,6.0,0,1
+2026,4,4,Miami Grand Prix,5,Lando Norris,McLaren,38.0,18.0,0,1
+2026,4,4,Miami Grand Prix,6,Oscar Piastri,McLaren,33.0,15.0,0,2
+2026,4,4,Miami Grand Prix,7,Max Verstappen,Red Bull Racing,22.0,10.0,0,0
+2026,4,4,Miami Grand Prix,8,Oliver Bearman,Haas F1 Team,16.0,0.0,0,0
+2026,4,4,Miami Grand Prix,9,Pierre Gasly,Alpine,15.0,0.0,0,0
+2026,4,4,Miami Grand Prix,10,Liam Lawson,Racing Bulls,8.0,0.0,0,0
+2026,4,4,Miami Grand Prix,11,Franco Colapinto,Alpine,5.0,4.0,0,0
+2026,4,4,Miami Grand Prix,12,Arvid Lindblad,Racing Bulls,4.0,0.0,0,0
+2026,4,4,Miami Grand Prix,12,Carlos Sainz,Williams,4.0,2.0,0,0
+2026,4,4,Miami Grand Prix,12,Isack Hadjar,Red Bull Racing,4.0,0.0,0,0
+2026,4,4,Miami Grand Prix,15,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,4,4,Miami Grand Prix,16,Alexander Albon,Williams,1.0,1.0,0,0
+2026,4,4,Miami Grand Prix,16,Esteban Ocon,Haas F1 Team,1.0,0.0,0,0
+2026,4,4,Miami Grand Prix,18,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,4,4,Miami Grand Prix,18,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,4,4,Miami Grand Prix,18,Nico Hulkenberg,Audi,0.0,0.0,0,0
+2026,4,4,Miami Grand Prix,18,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,4,4,Miami Grand Prix,18,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,1,Kimi Antonelli,Mercedes,118.0,25.0,4,5
+2026,5,5,Canadian Grand Prix,2,George Russell,Mercedes,67.0,0.0,1,2
+2026,5,5,Canadian Grand Prix,3,Charles Leclerc,Ferrari,62.0,12.0,0,2
+2026,5,5,Canadian Grand Prix,4,Lewis Hamilton,Ferrari,59.0,18.0,0,2
+2026,5,5,Canadian Grand Prix,5,Lando Norris,McLaren,38.0,0.0,0,1
+2026,5,5,Canadian Grand Prix,6,Max Verstappen,Red Bull Racing,37.0,15.0,0,1
+2026,5,5,Canadian Grand Prix,7,Oscar Piastri,McLaren,33.0,0.0,0,2
+2026,5,5,Canadian Grand Prix,8,Pierre Gasly,Alpine,19.0,4.0,0,0
+2026,5,5,Canadian Grand Prix,9,Oliver Bearman,Haas F1 Team,17.0,1.0,0,0
+2026,5,5,Canadian Grand Prix,10,Isack Hadjar,Red Bull Racing,14.0,10.0,0,0
+2026,5,5,Canadian Grand Prix,10,Liam Lawson,Racing Bulls,14.0,6.0,0,0
+2026,5,5,Canadian Grand Prix,12,Franco Colapinto,Alpine,13.0,8.0,0,0
+2026,5,5,Canadian Grand Prix,13,Carlos Sainz,Williams,6.0,2.0,0,0
+2026,5,5,Canadian Grand Prix,14,Arvid Lindblad,Racing Bulls,4.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,15,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,16,Alexander Albon,Williams,1.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,16,Esteban Ocon,Haas F1 Team,1.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,18,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,18,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,18,Nico Hulkenberg,Audi,0.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,18,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,5,5,Canadian Grand Prix,18,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,1,Kimi Antonelli,Mercedes,143.0,25.0,5,6
+2026,6,6,Monaco Grand Prix,2,Lewis Hamilton,Ferrari,77.0,18.0,0,3
+2026,6,6,Monaco Grand Prix,3,George Russell,Mercedes,67.0,0.0,1,2
+2026,6,6,Monaco Grand Prix,4,Charles Leclerc,Ferrari,62.0,0.0,0,2
+2026,6,6,Monaco Grand Prix,5,Oscar Piastri,McLaren,43.0,10.0,0,2
+2026,6,6,Monaco Grand Prix,6,Lando Norris,McLaren,38.0,0.0,0,1
+2026,6,6,Monaco Grand Prix,7,Max Verstappen,Red Bull Racing,37.0,0.0,0,1
+2026,6,6,Monaco Grand Prix,8,Pierre Gasly,Alpine,34.0,15.0,0,1
+2026,6,6,Monaco Grand Prix,9,Isack Hadjar,Red Bull Racing,26.0,12.0,0,0
+2026,6,6,Monaco Grand Prix,10,Liam Lawson,Racing Bulls,22.0,8.0,0,0
+2026,6,6,Monaco Grand Prix,11,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,12,Franco Colapinto,Alpine,13.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,13,Arvid Lindblad,Racing Bulls,10.0,6.0,0,0
+2026,6,6,Monaco Grand Prix,14,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,15,Alexander Albon,Williams,5.0,4.0,0,0
+2026,6,6,Monaco Grand Prix,16,Esteban Ocon,Haas F1 Team,2.0,1.0,0,0
+2026,6,6,Monaco Grand Prix,16,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,16,Nico Hulkenberg,Audi,2.0,2.0,0,0
+2026,6,6,Monaco Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,6,6,Monaco Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,1,Kimi Antonelli,Mercedes,143.0,0.0,5,6
+2026,7,7,Barcelona Grand Prix,2,Lewis Hamilton,Ferrari,102.0,25.0,1,4
+2026,7,7,Barcelona Grand Prix,3,George Russell,Mercedes,85.0,18.0,1,3
+2026,7,7,Barcelona Grand Prix,4,Charles Leclerc,Ferrari,62.0,0.0,0,2
+2026,7,7,Barcelona Grand Prix,5,Lando Norris,McLaren,53.0,15.0,0,2
+2026,7,7,Barcelona Grand Prix,5,Oscar Piastri,McLaren,53.0,10.0,0,2
+2026,7,7,Barcelona Grand Prix,7,Max Verstappen,Red Bull Racing,49.0,12.0,0,1
+2026,7,7,Barcelona Grand Prix,8,Pierre Gasly,Alpine,40.0,6.0,0,1
+2026,7,7,Barcelona Grand Prix,9,Isack Hadjar,Red Bull Racing,34.0,8.0,0,0
+2026,7,7,Barcelona Grand Prix,10,Liam Lawson,Racing Bulls,24.0,2.0,0,0
+2026,7,7,Barcelona Grand Prix,11,Franco Colapinto,Alpine,17.0,4.0,0,0
+2026,7,7,Barcelona Grand Prix,11,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,13,Arvid Lindblad,Racing Bulls,11.0,1.0,0,0
+2026,7,7,Barcelona Grand Prix,14,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,15,Alexander Albon,Williams,5.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,16,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,16,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,16,Nico Hulkenberg,Audi,2.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,7,7,Barcelona Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,1,Kimi Antonelli,Mercedes,158.0,15.0,5,7
+2026,8,8,Austrian Grand Prix,2,Lewis Hamilton,Ferrari,112.0,10.0,1,4
+2026,8,8,Austrian Grand Prix,3,George Russell,Mercedes,110.0,25.0,2,4
+2026,8,8,Austrian Grand Prix,4,Max Verstappen,Red Bull Racing,67.0,18.0,0,2
+2026,8,8,Austrian Grand Prix,5,Charles Leclerc,Ferrari,66.0,4.0,0,2
+2026,8,8,Austrian Grand Prix,6,Oscar Piastri,McLaren,65.0,12.0,0,2
+2026,8,8,Austrian Grand Prix,7,Lando Norris,McLaren,59.0,6.0,0,2
+2026,8,8,Austrian Grand Prix,8,Isack Hadjar,Red Bull Racing,42.0,8.0,0,0
+2026,8,8,Austrian Grand Prix,9,Pierre Gasly,Alpine,40.0,0.0,0,1
+2026,8,8,Austrian Grand Prix,10,Liam Lawson,Racing Bulls,26.0,2.0,0,0
+2026,8,8,Austrian Grand Prix,11,Franco Colapinto,Alpine,17.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,11,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,13,Arvid Lindblad,Racing Bulls,12.0,1.0,0,0
+2026,8,8,Austrian Grand Prix,14,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,15,Alexander Albon,Williams,5.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,16,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,16,Gabriel Bortoleto,Audi,2.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,16,Nico Hulkenberg,Audi,2.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,8,8,Austrian Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,9,9,British Grand Prix,1,Kimi Antonelli,Mercedes,160.0,2.0,5,7
+2026,9,9,British Grand Prix,2,George Russell,Mercedes,128.0,18.0,2,5
+2026,9,9,British Grand Prix,3,Lewis Hamilton,Ferrari,127.0,15.0,1,5
+2026,9,9,British Grand Prix,4,Charles Leclerc,Ferrari,91.0,25.0,1,3
+2026,9,9,British Grand Prix,5,Lando Norris,McLaren,71.0,12.0,0,2
+2026,9,9,British Grand Prix,6,Max Verstappen,Red Bull Racing,67.0,0.0,0,2
+2026,9,9,British Grand Prix,7,Oscar Piastri,McLaren,65.0,0.0,0,2
+2026,9,9,British Grand Prix,8,Isack Hadjar,Red Bull Racing,52.0,10.0,0,0
+2026,9,9,British Grand Prix,9,Pierre Gasly,Alpine,40.0,0.0,0,1
+2026,9,9,British Grand Prix,10,Liam Lawson,Racing Bulls,34.0,8.0,0,0
+2026,9,9,British Grand Prix,11,Arvid Lindblad,Racing Bulls,18.0,6.0,0,0
+2026,9,9,British Grand Prix,11,Franco Colapinto,Alpine,18.0,1.0,0,0
+2026,9,9,British Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,9,9,British Grand Prix,14,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,9,9,British Grand Prix,14,Gabriel Bortoleto,Audi,6.0,4.0,0,0
+2026,9,9,British Grand Prix,16,Alexander Albon,Williams,5.0,0.0,0,0
+2026,9,9,British Grand Prix,17,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,9,9,British Grand Prix,17,Nico Hulkenberg,Audi,2.0,0.0,0,0
+2026,9,9,British Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,9,9,British Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,9,9,British Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,9,9,British Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,1,Kimi Antonelli,Mercedes,185.0,25.0,6,8
+2026,10,10,Belgian Grand Prix,2,Lewis Hamilton,Ferrari,139.0,12.0,1,5
+2026,10,10,Belgian Grand Prix,3,George Russell,Mercedes,128.0,0.0,2,5
+2026,10,10,Belgian Grand Prix,4,Charles Leclerc,Ferrari,109.0,18.0,1,4
+2026,10,10,Belgian Grand Prix,5,Max Verstappen,Red Bull Racing,82.0,15.0,0,3
+2026,10,10,Belgian Grand Prix,6,Lando Norris,McLaren,77.0,6.0,0,2
+2026,10,10,Belgian Grand Prix,7,Oscar Piastri,McLaren,75.0,10.0,0,2
+2026,10,10,Belgian Grand Prix,8,Isack Hadjar,Red Bull Racing,60.0,8.0,0,0
+2026,10,10,Belgian Grand Prix,9,Pierre Gasly,Alpine,40.0,0.0,0,1
+2026,10,10,Belgian Grand Prix,10,Liam Lawson,Racing Bulls,34.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,11,Arvid Lindblad,Racing Bulls,20.0,2.0,0,0
+2026,10,10,Belgian Grand Prix,12,Franco Colapinto,Alpine,19.0,1.0,0,0
+2026,10,10,Belgian Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,14,Gabriel Bortoleto,Audi,10.0,4.0,0,0
+2026,10,10,Belgian Grand Prix,15,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,16,Alexander Albon,Williams,5.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,17,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,17,Nico Hulkenberg,Audi,2.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,10,10,Belgian Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,1,Kimi Antonelli,Mercedes,200.0,15.0,6,9
+2026,11,11,Hungarian Grand Prix,2,Lewis Hamilton,Ferrari,151.0,12.0,1,5
+2026,11,11,Hungarian Grand Prix,3,George Russell,Mercedes,134.0,6.0,2,5
+2026,11,11,Hungarian Grand Prix,4,Charles Leclerc,Ferrari,119.0,10.0,1,4
+2026,11,11,Hungarian Grand Prix,5,Lando Norris,McLaren,102.0,25.0,1,3
+2026,11,11,Hungarian Grand Prix,6,Max Verstappen,Red Bull Racing,100.0,18.0,0,4
+2026,11,11,Hungarian Grand Prix,7,Oscar Piastri,McLaren,75.0,0.0,0,2
+2026,11,11,Hungarian Grand Prix,8,Isack Hadjar,Red Bull Racing,68.0,8.0,0,0
+2026,11,11,Hungarian Grand Prix,9,Pierre Gasly,Alpine,40.0,0.0,0,1
+2026,11,11,Hungarian Grand Prix,10,Liam Lawson,Racing Bulls,38.0,4.0,0,0
+2026,11,11,Hungarian Grand Prix,11,Arvid Lindblad,Racing Bulls,21.0,1.0,0,0
+2026,11,11,Hungarian Grand Prix,12,Franco Colapinto,Alpine,19.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,14,Gabriel Bortoleto,Audi,10.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,15,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,16,Alexander Albon,Williams,5.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,17,Nico Hulkenberg,Audi,4.0,2.0,0,0
+2026,11,11,Hungarian Grand Prix,18,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,19,Fernando Alonso,Aston Martin,0.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,19,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,19,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,11,11,Hungarian Grand Prix,19,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,1,Kimi Antonelli,Mercedes,218.0,18.0,6,10
+2026,12,12,Dutch Grand Prix,2,Lewis Hamilton,Ferrari,163.0,12.0,1,5
+2026,12,12,Dutch Grand Prix,3,George Russell,Mercedes,149.0,15.0,2,6
+2026,12,12,Dutch Grand Prix,4,Charles Leclerc,Ferrari,129.0,10.0,1,4
+2026,12,12,Dutch Grand Prix,5,Lando Norris,McLaren,127.0,25.0,2,4
+2026,12,12,Dutch Grand Prix,6,Max Verstappen,Red Bull Racing,100.0,0.0,0,4
+2026,12,12,Dutch Grand Prix,7,Oscar Piastri,McLaren,83.0,8.0,0,2
+2026,12,12,Dutch Grand Prix,8,Isack Hadjar,Red Bull Racing,68.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,9,Liam Lawson,Red Bull Racing,44.0,6.0,0,0
+2026,12,12,Dutch Grand Prix,10,Pierre Gasly,Alpine,41.0,1.0,0,1
+2026,12,12,Dutch Grand Prix,11,Arvid Lindblad,Racing Bulls,21.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,12,Franco Colapinto,Alpine,19.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,14,Gabriel Bortoleto,Audi,10.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,15,Nico Hulkenberg,Audi,8.0,4.0,0,0
+2026,12,12,Dutch Grand Prix,16,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,17,Alexander Albon,Williams,5.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,18,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,18,Fernando Alonso,Aston Martin,2.0,2.0,0,0
+2026,12,12,Dutch Grand Prix,20,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,20,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,20,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,12,12,Dutch Grand Prix,20,Yuki Tsunoda,Racing Bulls,0.0,0.0,0,0
+2026,13,13,Italian Grand Prix,1,Kimi Antonelli,Mercedes,243.0,25.0,7,11
+2026,13,13,Italian Grand Prix,2,Lewis Hamilton,Ferrari,171.0,8.0,1,5
+2026,13,13,Italian Grand Prix,3,George Russell,Mercedes,167.0,18.0,2,7
+2026,13,13,Italian Grand Prix,4,Lando Norris,McLaren,139.0,12.0,2,4
+2026,13,13,Italian Grand Prix,5,Charles Leclerc,Ferrari,129.0,0.0,1,4
+2026,13,13,Italian Grand Prix,6,Max Verstappen,Red Bull Racing,115.0,15.0,0,5
+2026,13,13,Italian Grand Prix,7,Oscar Piastri,McLaren,93.0,10.0,0,2
+2026,13,13,Italian Grand Prix,8,Isack Hadjar,Red Bull Racing,68.0,0.0,0,0
+2026,13,13,Italian Grand Prix,9,Pierre Gasly,Alpine,47.0,6.0,0,1
+2026,13,13,Italian Grand Prix,10,Liam Lawson,Red Bull Racing,44.0,0.0,0,0
+2026,13,13,Italian Grand Prix,11,Arvid Lindblad,Racing Bulls,25.0,4.0,0,0
+2026,13,13,Italian Grand Prix,12,Franco Colapinto,Alpine,21.0,2.0,0,0
+2026,13,13,Italian Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,13,13,Italian Grand Prix,14,Gabriel Bortoleto,Audi,10.0,0.0,0,0
+2026,13,13,Italian Grand Prix,15,Nico Hulkenberg,Audi,8.0,0.0,0,0
+2026,13,13,Italian Grand Prix,16,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,13,13,Italian Grand Prix,17,Alexander Albon,Williams,5.0,0.0,0,0
+2026,13,13,Italian Grand Prix,18,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,13,13,Italian Grand Prix,18,Fernando Alonso,Aston Martin,2.0,0.0,0,0
+2026,13,13,Italian Grand Prix,20,Yuki Tsunoda,Racing Bulls,1.0,1.0,0,0
+2026,13,13,Italian Grand Prix,21,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,13,13,Italian Grand Prix,21,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,13,13,Italian Grand Prix,21,Valtteri Bottas,Cadillac,0.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,1,Kimi Antonelli,Mercedes,268.0,25.0,8,12
+2026,14,14,Spanish Grand Prix,2,George Russell,Mercedes,177.0,10.0,2,7
+2026,14,14,Spanish Grand Prix,3,Lewis Hamilton,Ferrari,171.0,0.0,1,5
+2026,14,14,Spanish Grand Prix,4,Lando Norris,McLaren,154.0,15.0,2,5
+2026,14,14,Spanish Grand Prix,5,Charles Leclerc,Ferrari,141.0,12.0,1,4
+2026,14,14,Spanish Grand Prix,6,Max Verstappen,Red Bull Racing,133.0,18.0,0,6
+2026,14,14,Spanish Grand Prix,7,Oscar Piastri,McLaren,97.0,4.0,0,2
+2026,14,14,Spanish Grand Prix,8,Isack Hadjar,Red Bull Racing,68.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,9,Liam Lawson,Red Bull Racing,52.0,8.0,0,0
+2026,14,14,Spanish Grand Prix,10,Pierre Gasly,Alpine,47.0,0.0,0,1
+2026,14,14,Spanish Grand Prix,11,Arvid Lindblad,Racing Bulls,27.0,2.0,0,0
+2026,14,14,Spanish Grand Prix,11,Franco Colapinto,Alpine,27.0,6.0,0,0
+2026,14,14,Spanish Grand Prix,13,Oliver Bearman,Haas F1 Team,17.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,14,Gabriel Bortoleto,Audi,10.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,15,Nico Hulkenberg,Audi,9.0,1.0,0,0
+2026,14,14,Spanish Grand Prix,16,Carlos Sainz,Williams,6.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,17,Alexander Albon,Williams,5.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,18,Esteban Ocon,Haas F1 Team,2.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,18,Fernando Alonso,Aston Martin,2.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,20,Yuki Tsunoda,Racing Bulls,1.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,21,Lance Stroll,Aston Martin,0.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,21,Sergio Perez,Cadillac,0.0,0.0,0,0
+2026,14,14,Spanish Grand Prix,21,Valtteri Bottas,Cadillac,0.0,0.0,0,0
