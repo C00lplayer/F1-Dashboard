@@ -2,20 +2,23 @@
 
 An end-to-end **Power BI dashboard project** built around **Formula 1 race data**, delivering insights into **driver performance, constructor standings, qualifying trends, race outcomes, and season progression**.  
 This project combines **Python-based data extraction**, **FastF1 data access**, and **Power BI storytelling** to create a professional F1 analytics experience for fans, analysts, and stakeholders.
+<details>
+<summary>📊 View Dashboard Screenshots</summary>
 
-<p align="center">
-  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png">
-    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png" width="32%">
-  </a>
-  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png">
-    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png" width="32%">
-  </a>
-  <a href="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png">
-    <img src="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png" width="32%">
-  </a>
-</p>
+### Landing Page
 
----
+<img src="Dashboard_Pictures/Screenshot%202026-09-22%20112421.png" width="100%">
+
+### Season Overview
+
+<img src="Dashboard_Pictures/Screenshot%202026-09-22%20112445.png" width="100%">
+
+### Past Race Details
+
+<img src="Dashboard_Pictures/Screenshot%202026-09-22%20112509.png" width="100%">
+
+</details>
+
 
 ## Dashboard Overview
 
